@@ -1,23 +1,21 @@
-### Hi there 👋
+### Hi, I'm Ragib
 
-### Stats
+I'm a software engineer in Malaysia. Outside work, I build and run a few small,
+free things, mostly because I needed them myself.
 
-[![Ragib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragibkl)](https://github.com/anuraghazra/github-readme-stats)
+- **[Bancuh DNS](https://bancuh.com)**: a free public adblock DNS service I've
+  run since 2015. A filtering DNS server in Rust
+  ([bancuh-dns](https://github.com/ragibkl/bancuh-dns)) behind a DoH/DoT front
+  end ([dnsdist-acme](https://github.com/ragibkl/dnsdist-acme)), deployed with
+  [adblock-dns-server](https://github.com/ragibkl/adblock-dns-server).
+- **[simplesolat](https://simplesolat.com)**: a prayer times app with official
+  timetables for nine countries and widgets that update themselves as you
+  travel. The timetables live in
+  [simplesolat-data](https://github.com/ragibkl/simplesolat-data).
+- **[GibTalk](https://gibtalk.com)**: a free AAC app I built for my autistic
+  kids, so they could tap pictures to speak.
+- **[keytree](https://github.com/ragibkl/keytree)**: log in to all your servers
+  with the SSH keys on your GitHub account.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragibkl)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**ragibkl/ragibkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I write about how these came about, and what they taught me, at
+**[ragib.dev](https://ragib.dev)**.
